@@ -1,5 +1,6 @@
 # EL-RTNet Repository
 # This is the dataset repository for EL-RTNet Research Work
+# Path: EL-RTNet/Dataset
 In EL-RTNet Four major dataset is utilized.
 1. Electricity Load Dataset From National Grid of Bangladesh, which is accesible through URL: https://erp.powergrid.gov.bd/w/generations/view_generations and https://erp.powergrid.gov.bd/web/generations/view_demand_supply_loadshed and the corresponding weather data from https://www.visualcrossing.com/. After treatment for duplicate & missing data, electricity load related data are concatenated with weather variables based on datetime.
 3. Residential Load Dataset is collected from DOI: doi.org/10.21227/DFVB-RE49
